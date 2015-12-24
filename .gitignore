@@ -1,0 +1,12 @@
+/private
+/node_modules
+/bower_components
+/logs
+logs/
+node_modules/
+npm-debug.log
+.idea
+.env
+config/
+/config.js
+stats.js
